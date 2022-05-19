@@ -1,0 +1,1309 @@
+ 
+[
+   {
+       "id": 171,
+       "name": "1Click2Deliver (Lyve)",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/one_click_to_deliver.png"
+   },
+   {
+       "id": 229,
+       "name": "99minutos",
+       "logo": "https://99minutos.com/static/media/logo-99minutos.b60d26d8.png"
+   },
+   {
+       "id": 197,
+       "name": "A L Services",
+       "logo": "https://alservicesindia.com/wp-content/uploads/2020/05/Fav.png"
+   },
+   {
+       "id": 221,
+       "name": "A L Services Reverse",
+       "logo": "https://alservicesindia.com/wp-content/uploads/2020/05/Fav.png"
+   },
+   {
+       "id": 175,
+       "name": "Amaze Solutions",
+       "logo": "https://pyck-res-bucket.s3.amazonaws.com:443/shipper_accounts_icons/amaze.png"
+   },
+   {
+       "id": 45,
+       "name": "Ambe Express",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/axlpl.jpg"
+   },
+   {
+       "id": 2,
+       "name": "Aramex",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/aramex.png"
+   },
+   {
+       "id": 125,
+       "name": "Aramex MPS",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/aramex.png"
+   },
+   {
+       "id": 239,
+       "name": "Aramex MPS Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/aramex.png"
+   },
+   {
+       "id": 88,
+       "name": "Aramex Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/aramex.png"
+   },
+   {
+       "id": 224,
+       "name": "Arrow Express MPS",
+       "logo": "http://www.arrow-express.eu/images/logop1.jpg"
+   },
+   {
+       "id": 272,
+       "name": "ASL",
+       "logo": "https://asldistribution.com/wp-content/uploads/2017/08/ASL-Distribution-Services-350.png"
+   },
+   {
+       "id": 178,
+       "name": "Asyad Express",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/ASYAD-Express-Logo-e57a60cb.jpg"
+   },
+   {
+       "id": 114,
+       "name": "Atlantic",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/atlantic_logo.png"
+   },
+   {
+       "id": 212,
+       "name": "ATS (Amazon Transportation Services)",
+       "logo": "http://media.corporate-ir.net/media_files/IROL/17/176060/Oct18/Amazon%20logo.PNG"
+   },
+   {
+       "id": 67,
+       "name": "Aum Logistic",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/aum.png"
+   },
+   {
+       "id": 51,
+       "name": "AuPost",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/aus-post-logo.png"
+   },
+   {
+       "id": 120,
+       "name": "Aymakan",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/aymakan.png"
+   },
+   {
+       "id": 135,
+       "name": "Aymakan Reverse",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/aymakan.png"
+   },
+   {
+       "id": 127,
+       "name": "Barq Express",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/barqexp.png"
+   },
+   {
+       "id": 192,
+       "name": "Barq Fleet",
+       "logo": "https://barqapp.com/assets/public/plane-4c4fa64ca49a8140a2a9d19cb9ff0da5177e97a50ecc38368e6cc9aca658d9b4.png"
+   },
+   {
+       "id": 222,
+       "name": "Big Guy Logistics",
+       "logo": "http://www.bigguylogistics.com/image/logo.jpg"
+   },
+   {
+       "id": 52,
+       "name": "Bikxie",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/bikxie.png"
+   },
+   {
+       "id": 75,
+       "name": "Bizlog Reverse",
+       "logo": "https://www.bizlog.in/Images/logo.png"
+   },
+   {
+       "id": 46,
+       "name": "Bizongo",
+       "logo": "https://dashboard.clickpost.in/assets/images/no_image.svg"
+   },
+   {
+       "id": 122,
+       "name": "Blowhorn HLD",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/blowhorn_logo.png"
+   },
+   {
+       "id": 273,
+       "name": "Blowhorn HLD RVP",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/blowhorn_logo.png"
+   },
+   {
+       "id": 5,
+       "name": "Bluedart",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/bluedart.png"
+   },
+   {
+       "id": 213,
+       "name": "Bluedart International",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/bluedart.png"
+   },
+   {
+       "id": 129,
+       "name": "Bluedart MPS",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/bluedart.png"
+   },
+   {
+       "id": 28,
+       "name": "Bluedart Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/bluedart.png"
+   },
+   {
+       "id": 152,
+       "name": "Bluedart Scrapper",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/bluedart.png"
+   },
+   {
+       "id": 23,
+       "name": "Book My Packet",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/bookmypacket_logo.png"
+   },
+   {
+       "id": 225,
+       "name": "Boxout Express",
+       "logo": "https://boxoutapp.com/wp-content/uploads/2019/03/Logo.png"
+   },
+   {
+       "id": 189,
+       "name": "Braazo Delivery Service",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/Logos/Screenshot_2021-03-22+Logistics+Braazo+delivery+services.png"
+   },
+   {
+       "id": 232,
+       "name": "BulkVan",
+       "logo": "https://www.bulkvan.com/wp-content/uploads/2020/08/cropped-LogoMakr_307CTW-1.png"
+   },
+   {
+       "id": 92,
+       "name": "BulkVan MPS",
+       "logo": "https://www.bulkvan.com/wp-content/uploads/2020/08/cropped-LogoMakr_307CTW-1.png"
+   },
+   {
+       "id": 146,
+       "name": "BVC Logistics",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/bvc.png"
+   },
+   {
+       "id": 172,
+       "name": "BVC Logistics Reverse",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/bvc.png"
+   },
+   {
+       "id": 193,
+       "name": "CABT",
+       "logo": "https://cabtechnologies.com/images/logo3.png"
+   },
+   {
+       "id": 78,
+       "name": "Cameo",
+       "logo": ""
+   },
+   {
+       "id": 176,
+       "name": "Careem",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/Logos/careem_logo.png"
+   },
+   {
+       "id": 279,
+       "name": "Ceva",
+       "logo": null
+   },
+   {
+       "id": 280,
+       "name": "Ceva MPS",
+       "logo": null
+   },
+   {
+       "id": 110,
+       "name": "CMS",
+       "logo": "https://cmscouriers.com/wp-content/uploads/2019/07/top-logo-cms-169x59.png"
+   },
+   {
+       "id": 253,
+       "name": "CMS MPS",
+       "logo": "https://cmscouriers.com/wp-content/uploads/2019/07/top-logo-cms-169x59.png"
+   },
+   {
+       "id": 185,
+       "name": "CMS Reverse",
+       "logo": "https://cmscouriers.com/wp-content/uploads/2019/07/top-logo-cms-169x59.png"
+   },
+   {
+       "id": 58,
+       "name": "CriticalLog",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/cl_logo.png"
+   },
+   {
+       "id": 269,
+       "name": "Delex MPS",
+       "logo": "https://www.delex.in/images/logo.png"
+   },
+   {
+       "id": 4,
+       "name": "Delhivery",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/delhivery.png"
+   },
+   {
+       "id": 66,
+       "name": "Delhivery B2B MPS",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/delhivery.png"
+   },
+   {
+       "id": 113,
+       "name": "Delhivery B2B MPS Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/delhivery.png"
+   },
+   {
+       "id": 112,
+       "name": "Delhivery FTL",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/delhivery.png"
+   },
+   {
+       "id": 180,
+       "name": "Delhivery HLD",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/delhivery.png"
+   },
+   {
+       "id": 25,
+       "name": "Delhivery Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/delhivery.png"
+   },
+   {
+       "id": 57,
+       "name": "Delhivery Scrapper",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/delhivery.png"
+   },
+   {
+       "id": 196,
+       "name": "Deliverist",
+       "logo": "https://www.deliverist.sa/wp-content/uploads/2020/10/Screenshot_2.png"
+   },
+   {
+       "id": 104,
+       "name": "DelyGo",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/delygo_logo.png"
+   },
+   {
+       "id": 265,
+       "name": "Dependo",
+       "logo": "https://dependo.com/images/website/img/logo.png"
+   },
+   {
+       "id": 49,
+       "name": "DHL",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/dhl_logo.png"
+   },
+   {
+       "id": 145,
+       "name": "DHL [INT]",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/dhl_logo.png"
+   },
+   {
+       "id": 164,
+       "name": "DHL MPS [INT]",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/dhl_logo.png"
+   },
+   {
+       "id": 166,
+       "name": "DHL MPS Reverse [INT]",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/dhl_logo.png"
+   },
+   {
+       "id": 159,
+       "name": "DHL Reverse [INT]",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/dhl_logo.png"
+   },
+   {
+       "id": 22,
+       "name": "Dotzot",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/dotzot.png"
+   },
+   {
+       "id": 99,
+       "name": "Dotzot Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/dotzot.png"
+   },
+   {
+       "id": 119,
+       "name": "Dropr",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/dropr_logo.png"
+   },
+   {
+       "id": 8,
+       "name": "DTDC",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/dtdc.png"
+   },
+   {
+       "id": 141,
+       "name": "DTDC [LTL]",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/dtdc.png"
+   },
+   {
+       "id": 244,
+       "name": "DTDC Reverse",
+       "logo": "https://www.dtdc.in/images/dtdc_logo_new.gif"
+   },
+   {
+       "id": 118,
+       "name": "Dunzo",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/dunzo_logo.png"
+   },
+   {
+       "id": 248,
+       "name": "eCabs MPS",
+       "logo": "https://www.ecabs.com.mt/wp-content/uploads/2022/01/eCabsLogo.svg"
+   },
+   {
+       "id": 3,
+       "name": "EcomExpress",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/ecom_express.png"
+   },
+   {
+       "id": 24,
+       "name": "EcomExpress Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/ecom_express.png"
+   },
+   {
+       "id": 100,
+       "name": "Ecom Scrapper",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/ecom_express.png"
+   },
+   {
+       "id": 55,
+       "name": "Ekart Logistics",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/ekart.png"
+   },
+   {
+       "id": 64,
+       "name": "Ekart Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/ekart.png"
+   },
+   {
+       "id": 158,
+       "name": "Ekart Scrapper",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/ekart.png"
+   },
+   {
+       "id": 256,
+       "name": "ElasticRun",
+       "logo": "https://www.elastic.run/images/Elasticrun-logo-w.svg"
+   },
+   {
+       "id": 230,
+       "name": "Elite",
+       "logo": "https://pyck-res-bucket.s3.ap-southeast-1.amazonaws.com/Logos/Elite.png"
+   },
+   {
+       "id": 123,
+       "name": "Emirates Post",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/emirates_post.png"
+   },
+   {
+       "id": 267,
+       "name": "Envoi",
+       "logo": null
+   },
+   {
+       "id": 278,
+       "name": "Envoi MPS",
+       "logo": null
+   },
+   {
+       "id": 167,
+       "name": "Esnad",
+       "logo": "https://www.esnadexpress.com/assets/img/logo/Esnad_Logo_Y_Outer.gif"
+   },
+   {
+       "id": 48,
+       "name": "Esskay",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/esskay-logo.jpg"
+   },
+   {
+       "id": 31,
+       "name": "Fareye",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/fareye-logo.png"
+   },
+   {
+       "id": 38,
+       "name": "Fareye Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/fareye-logo.png"
+   },
+   {
+       "id": 1,
+       "name": "Fedex",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/fed_ex.png"
+   },
+   {
+       "id": 198,
+       "name": "Fedex[INT] MPS",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/fed_ex.png"
+   },
+   {
+       "id": 199,
+       "name": "Fedex[INT] MPS Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/fed_ex.png"
+   },
+   {
+       "id": 168,
+       "name": "Fedex [ME]",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/fed_ex.png"
+   },
+   {
+       "id": 200,
+       "name": "Fedex[ME] Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/fed_ex.png"
+   },
+   {
+       "id": 90,
+       "name": "Fedex Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/fed_ex.png"
+   },
+   {
+       "id": 204,
+       "name": "(FedEx) TNT MPS",
+       "logo": "https://www.tnt.com/dam/tnt_express_media/tnt-local-pages/it_it/imgs/logotntfedexwhite3.jpg"
+   },
+   {
+       "id": 208,
+       "name": "(Fedex) TNT MPS Reverse",
+       "logo": "https://www.tnt.com/dam/tnt_express_media/tnt-local-pages/it_it/imgs/logotntfedexwhite3.jpg"
+   },
+   {
+       "id": 76,
+       "name": "Fetchr",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/fetchr.png"
+   },
+   {
+       "id": 186,
+       "name": "Fetchr MPS [B2B]",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/fetchr.png"
+   },
+   {
+       "id": 81,
+       "name": "Fetchr Reverse",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/fetchr.png"
+   },
+   {
+       "id": 260,
+       "name": "First Call MPS",
+       "logo": null
+   },
+   {
+       "id": 173,
+       "name": "First Flight",
+       "logo": "https://pyck-res-bucket.s3.amazonaws.com/shipper_accounts_icons/first_flight.jpeg"
+   },
+   {
+       "id": 147,
+       "name": "FloKart",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/flowkart_logo.webp"
+   },
+   {
+       "id": 128,
+       "name": "Fodel",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/fodel.png"
+   },
+   {
+       "id": 68,
+       "name": "Future Supply Chain",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/future_supply_chain_logo.jpg"
+   },
+   {
+       "id": 32,
+       "name": "Gati",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/gati.png"
+   },
+   {
+       "id": 71,
+       "name": "Gati MPS",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/gati.png"
+   },
+   {
+       "id": 109,
+       "name": "Gati Scrap",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/gati.png"
+   },
+   {
+       "id": 65,
+       "name": "Gms Logistic",
+       "logo": "http://www.gmsworldwide.com/images/gmslogo1.jpg"
+   },
+   {
+       "id": 13,
+       "name": "Gopigeon",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/gopigeon.png"
+   },
+   {
+       "id": 207,
+       "name": "Grow Simplee",
+       "logo": "https://www.growsimplee.com/static/media/17594.6c1eab1c.svg"
+   },
+   {
+       "id": 15,
+       "name": "Holisol",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/holisol.png"
+   },
+   {
+       "id": 77,
+       "name": "Holisol Reverse",
+       "logo": null
+   },
+   {
+       "id": 149,
+       "name": "HurryR",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/hurryr_logo.png"
+   },
+   {
+       "id": 231,
+       "name": "Hypertrack HLD",
+       "logo": null
+   },
+   {
+       "id": 251,
+       "name": "iMile",
+       "logo": "https://www.imile.com/images/logooriginal.svg"
+   },
+   {
+       "id": 252,
+       "name": "iMile Reverse",
+       "logo": "https://www.imile.com/images/logooriginal.svg"
+   },
+   {
+       "id": 1001,
+       "name": "IndiaPost",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/india_post.png"
+   },
+   {
+       "id": 10,
+       "name": "InnovEx",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/innovex.png"
+   },
+   {
+       "id": 262,
+       "name": "InTargos",
+       "logo": "https://intargos.com/assets/img/InTargos.png"
+   },
+   {
+       "id": 170,
+       "name": "Ithink Logistics",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/ithinklogistics_logo.png"
+   },
+   {
+       "id": 228,
+       "name": "iVoy",
+       "logo": "https://ivoy.mx/logologo.png"
+   },
+   {
+       "id": 169,
+       "name": "Jeebly",
+       "logo": "https://www.jeebly.com/images/logo.png"
+   },
+   {
+       "id": 183,
+       "name": "Jeebly Reverse",
+       "logo": "https://www.jeebly.com/images/logo.png"
+   },
+   {
+       "id": 83,
+       "name": "Jetline",
+       "logo": "http://www.jetlinecouriers.in/images/jet-line-logo.png"
+   },
+   {
+       "id": 117,
+       "name": "JNE Express",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/jne_logo.png"
+   },
+   {
+       "id": 70,
+       "name": "JV Express",
+       "logo": "https://www.jvxp.in/images/logo.png"
+   },
+   {
+       "id": 181,
+       "name": "Kargokart",
+       "logo": "https://www.kargokart.in/front/images/logo-2.png"
+   },
+   {
+       "id": 237,
+       "name": "Kart2door",
+       "logo": "https://www.kart2door.com/media/logo/logo.png"
+   },
+   {
+       "id": 72,
+       "name": "KerryIndev",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/kerryindev.png"
+   },
+   {
+       "id": 259,
+       "name": "KerryIndev MPS",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/kerryindev.png"
+   },
+   {
+       "id": 255,
+       "name": "KerryIndev Reverse",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/kerryindev.png"
+   },
+   {
+       "id": 50,
+       "name": "Loadshare",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/loadshare.png"
+   },
+   {
+       "id": 249,
+       "name": "Loginext HLD",
+       "logo": "https://www.loginextsolutions.com/images/logo.png"
+   },
+   {
+       "id": 73,
+       "name": "Logistify",
+       "logo": "http://www.logistify.in/img/logo.png"
+   },
+   {
+       "id": 266,
+       "name": "Mahindra (MLL)",
+       "logo": "https://mahindralogistics.com/wp-content/themes/mahindralogistics/theme-assets/images/site-logo.png"
+   },
+   {
+       "id": 254,
+       "name": "Mahindra MPS (MLL)",
+       "logo": "https://mahindralogistics.com/wp-content/themes/mahindralogistics/theme-assets/images/site-logo.png"
+   },
+   {
+       "id": 53,
+       "name": "MileReach",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/milereach.png"
+   },
+   {
+       "id": 138,
+       "name": "Naqel Express",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/naqel.png"
+   },
+   {
+       "id": 174,
+       "name": "NEX Courier",
+       "logo": "https://pyck-res-bucket.s3.amazonaws.com/shipper_accounts_icons/nex.png"
+   },
+   {
+       "id": 177,
+       "name": "Nhat Tin Logistics",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/nt-logistics.png"
+   },
+   {
+       "id": 184,
+       "name": "Nimbus Post",
+       "logo": "https://nimbuspost.com/wp-content/uploads/2020/10/Logo.jpg"
+   },
+   {
+       "id": 257,
+       "name": "NowBike HLD",
+       "logo": "https://now.bike/assets/images/logo.png"
+   },
+   {
+       "id": 17,
+       "name": "NuvoEx Forward",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/nuvoex.png"
+   },
+   {
+       "id": 7,
+       "name": "NuvoEx Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/nuvoex.png"
+   },
+   {
+       "id": 140,
+       "name": "One Click To Deliver",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/one_click_to_deliver.png"
+   },
+   {
+       "id": 154,
+       "name": "One Click To Deliver Reverse",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/one_click_to_deliver.png"
+   },
+   {
+       "id": 12,
+       "name": "Online Express",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/online_express.png"
+   },
+   {
+       "id": 91,
+       "name": "Online Express Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/online_express.png"
+   },
+   {
+       "id": 234,
+       "name": "PaquetExpress",
+       "logo": "https://pyck-res-bucket.s3.ap-southeast-1.amazonaws.com/Logos/paquetexpress_logo.png"
+   },
+   {
+       "id": 30,
+       "name": "Pickrr",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/pickrr.png"
+   },
+   {
+       "id": 139,
+       "name": "Pickrr Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/pickrr.png"
+   },
+   {
+       "id": 190,
+       "name": "Pidge HLD",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/Logos/pidge.png"
+   },
+   {
+       "id": 258,
+       "name": "Pikndel HLD",
+       "logo": "https://pikndel.com/themes/assets/img/pikndel_logo.png"
+   },
+   {
+       "id": 187,
+       "name": "Postage",
+       "logo": "https://s3.amazonaws.com/postageco/1/logo/logo.png"
+   },
+   {
+       "id": 40,
+       "name": "Posta Kenya",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/posta.png"
+   },
+   {
+       "id": 136,
+       "name": "Posta Plus",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/posta_plus.png"
+   },
+   {
+       "id": 144,
+       "name": "Qatar Post",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/qpost_logo.png"
+   },
+   {
+       "id": 263,
+       "name": "Quickshift",
+       "logo": "http://quickshift.in/images/quickshift-logo.png"
+   },
+   {
+       "id": 261,
+       "name": "Quiqup [IND]",
+       "logo": "https://quiqup.in/public/images/pickkuplogoname.png"
+   },
+   {
+       "id": 143,
+       "name": "Quiqup [ME]",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/quiqup_logo.svg"
+   },
+   {
+       "id": 155,
+       "name": "Quiqup Reverse [ME]",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/quiqup_logo.svg"
+   },
+   {
+       "id": 240,
+       "name": "Qwqer",
+       "logo": "https://www.qwqer.in/assets/front/image/logo.png"
+   },
+   {
+       "id": 42,
+       "name": "Rapid Delivery",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/rdlogo.png"
+   },
+   {
+       "id": 59,
+       "name": "RBL Logistics",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/rbl-logo.png"
+   },
+   {
+       "id": 218,
+       "name": "RedBox",
+       "logo": "https://redboxsa.com/wp-content/uploads/2019/05/RedBox_logo3.jpg"
+   },
+   {
+       "id": 235,
+       "name": "RedBox MPS",
+       "logo": "https://redboxsa.com/wp-content/uploads/2019/05/RedBox_logo3.jpg"
+   },
+   {
+       "id": 227,
+       "name": "RedBox Reverse",
+       "logo": "https://redboxsa.com/wp-content/uploads/2019/05/RedBox_logo3.jpg"
+   },
+   {
+       "id": 215,
+       "name": "Relay Express",
+       "logo": "https://www.relayexpress.in/img/logo2.png"
+   },
+   {
+       "id": 56,
+       "name": "Rivigo",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/rivigo_logo.png"
+   },
+   {
+       "id": 226,
+       "name": "Ruh",
+       "logo": "https://pyck-res-bucket.s3.ap-southeast-1.amazonaws.com/Logos/ruhindia.png"
+   },
+   {
+       "id": 137,
+       "name": "Saee",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/saee_logo.png"
+   },
+   {
+       "id": 191,
+       "name": "Safe Arrival",
+       "logo": "https://www.safe-arrival.com/wp-content/uploads/2020/12/safe-arrival-logo-1.png"
+   },
+   {
+       "id": 26,
+       "name": "Safex",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/safexpress.jpg"
+   },
+   {
+       "id": 27,
+       "name": "Saksham",
+       "logo": "https://dashboard.clickpost.in/assets/images/no_image.svg"
+   },
+   {
+       "id": 275,
+       "name": "Sameday",
+       "logo": null
+   },
+   {
+       "id": 276,
+       "name": "Sameday MPS",
+       "logo": null
+   },
+   {
+       "id": 106,
+       "name": "SAP Express",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/sap.png"
+   },
+   {
+       "id": 126,
+       "name": "Saudi Post",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/saudi_post.png"
+   },
+   {
+       "id": 148,
+       "name": "Saudi Post MPS",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/saudi_post.png"
+   },
+   {
+       "id": 47,
+       "name": "SecuraEx",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/secura.png"
+   },
+   {
+       "id": 203,
+       "name": "Secure Global",
+       "logo": "https://www.secureglobal.co.in/img/logo.png"
+   },
+   {
+       "id": 217,
+       "name": "Secure Global Reverse",
+       "logo": "https://www.secureglobal.co.in/img/logo.png"
+   },
+   {
+       "id": 35,
+       "name": "SELF",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/courier_default.jpg"
+   },
+   {
+       "id": 201,
+       "name": "Self [MPS]",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/courier_default.jpg"
+   },
+   {
+       "id": 34,
+       "name": "SELF Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/courier_default.jpg"
+   },
+   {
+       "id": 111,
+       "name": "SendFast",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/SendFast_logo.png"
+   },
+   {
+       "id": 29,
+       "name": "Sequel",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/sequel.png"
+   },
+   {
+       "id": 165,
+       "name": "Sequel Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/sequel.png"
+   },
+   {
+       "id": 9,
+       "name": "Shadowfax Forward",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/shadowfax.png"
+   },
+   {
+       "id": 241,
+       "name": "Shadowfax Marketplace HLD",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/shadowfax.png"
+   },
+   {
+       "id": 220,
+       "name": "Shadowfax Now Slot HLD",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/shadowfax.png"
+   },
+   {
+       "id": 11,
+       "name": "Shadowfax Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/shadowfax.png"
+   },
+   {
+       "id": 157,
+       "name": "Shadowfax Scrapper",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/shadowfax.png"
+   },
+   {
+       "id": 102,
+       "name": "Shipa Delivery",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/shipa.png"
+   },
+   {
+       "id": 131,
+       "name": "Shipa Delivery MPS",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/shipa.png"
+   },
+   {
+       "id": 103,
+       "name": "Shipa Delivery Reverse",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/shipa.png"
+   },
+   {
+       "id": 19,
+       "name": "Shipbazar",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/shipbazaar.png"
+   },
+   {
+       "id": 16,
+       "name": "Shipdelight",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/ship_delight.png"
+   },
+   {
+       "id": 105,
+       "name": "Shiprocket",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/shiprocket_logo.png"
+   },
+   {
+       "id": 206,
+       "name": "Shiprocket Reverse",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/shiprocket_logo.png"
+   },
+   {
+       "id": 150,
+       "name": "Shipsy",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/shipsy_logo1.png"
+   },
+   {
+       "id": 153,
+       "name": "Shipsy Reverse",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/shipsy_logo1.png"
+   },
+   {
+       "id": 108,
+       "name": "Shipyaari",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/shipyaari_logo.png"
+   },
+   {
+       "id": 69,
+       "name": "Shree Maruti Courier",
+       "logo": "https://content3.jdmagicbox.com/comp/ahmedabad/e8/079pxx79.xx79.000932194422.c3e8/catalogue/shree-maruti-courier-service-pvt-ltd-ahmedabad-ilo3j.jpg"
+   },
+   {
+       "id": 74,
+       "name": "Shyplite",
+       "logo": "https://shyplite.com/assets/svg/logo-full.svg"
+   },
+   {
+       "id": 101,
+       "name": "Shyplite Reverse",
+       "logo": "https://shyplite.com/assets/svg/logo-full.svg"
+   },
+   {
+       "id": 116,
+       "name": "Sicepat",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/sicepat_logo.png"
+   },
+   {
+       "id": 209,
+       "name": "Skip Express MPS",
+       "logo": "https://skip-logistics.com/wp-content/themes/skipexpress/img/logo.png"
+   },
+   {
+       "id": 246,
+       "name": "Skip MPS Reverse",
+       "logo": "https://skip-logistics.com/wp-content/themes/skipexpress/img/logo.png"
+   },
+   {
+       "id": 44,
+       "name": "Skynet (Delhivery International)",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/skynet-LOGO.jpg"
+   },
+   {
+       "id": 250,
+       "name": "Smartr",
+       "logo": "https://www.smartr.in/img/logo/mob-header-logo.png"
+   },
+   {
+       "id": 60,
+       "name": "Smartship",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/smartship.png"
+   },
+   {
+       "id": 79,
+       "name": "SMSA Express",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/samsa_express.png"
+   },
+   {
+       "id": 121,
+       "name": "Smsa Express MPS",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/samsa_express.png"
+   },
+   {
+       "id": 82,
+       "name": "SMSA Express Reverse",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/samsa_express.png"
+   },
+   {
+       "id": 194,
+       "name": "Soft Age",
+       "logo": "https://www.softage.net/images/logo/logo.png"
+   },
+   {
+       "id": 182,
+       "name": "SpeedoPost",
+       "logo": "https://pyck-res-bucket/shipper_accounts_icons/"
+   },
+   {
+       "id": 39,
+       "name": "SpotOn",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/spoton.jpg"
+   },
+   {
+       "id": 236,
+       "name": "SpotOn MPS",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/spoton.jpg"
+   },
+   {
+       "id": 238,
+       "name": "SpotOn Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/spoton.jpg"
+   },
+   {
+       "id": 223,
+       "name": "Starlinks",
+       "logo": "https://starlinks-me.com/wp-content/uploads/2019/08/main-logo-300x114.png"
+   },
+   {
+       "id": 233,
+       "name": "Starlinks Reverse",
+       "logo": "https://starlinks-me.com/wp-content/uploads/2019/08/main-logo-300x114.png"
+   },
+   {
+       "id": 62,
+       "name": "ST Courier",
+       "logo": "http://stcourier.com/wp-content/themes/st-courier-child/images/logo.png"
+   },
+   {
+       "id": 179,
+       "name": "Stellar Value Chain Solutions",
+       "logo": "https://www.stellarvaluechain.com/wp-content/uploads/2020/02/logo-300x181.png"
+   },
+   {
+       "id": 156,
+       "name": "SVG",
+       "logo": ""
+   },
+   {
+       "id": 202,
+       "name": "Swftbox",
+       "logo": "http://static1.squarespace.com/static/5e94583c663e0a3ac2368be5/t/5e9f6152d06c1c1340ad54cc/1587503445750/logosquare.png?format=1500w"
+   },
+   {
+       "id": 211,
+       "name": "Swift",
+       "logo": "https://uploads-ssl.webflow.com/5fc61558289f574d2b695fe4/5fc7ad2ded1767b08813a7b5_logo-p-500.png"
+   },
+   {
+       "id": 142,
+       "name": "Swifto",
+       "logo": null
+   },
+   {
+       "id": 216,
+       "name": "Swift Reverse",
+       "logo": "https://uploads-ssl.webflow.com/5fc61558289f574d2b695fe4/5fc7ad2ded1767b08813a7b5_logo-p-500.png"
+   },
+   {
+       "id": 36,
+       "name": "TCI",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/tci-logo.jpg"
+   },
+   {
+       "id": 268,
+       "name": "TForce",
+       "logo": null
+   },
+   {
+       "id": 271,
+       "name": "TForce MPS",
+       "logo": null
+   },
+   {
+       "id": 195,
+       "name": "Thabit Logistics",
+       "logo": "https://thabit-logistics.com/sitesetting_images/thumb/courier-tracking-1599618758-213.png"
+   },
+   {
+       "id": 219,
+       "name": "The Professional Couriers",
+       "logo": "https://www.tpcglobe.com/images/logo.png"
+   },
+   {
+       "id": 264,
+       "name": "TimeExpress",
+       "logo": null
+   },
+   {
+       "id": 247,
+       "name": "Totalogix",
+       "logo": "http://www.totalogix.in/images/TOTALOGIXLOGO.jpg"
+   },
+   {
+       "id": 80,
+       "name": "Trackon",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/trackon_logo.svg"
+   },
+   {
+       "id": 242,
+       "name": "Tracusa",
+       "logo": "https://www.tracusa.com.mx/images/logo_red.png"
+   },
+   {
+       "id": 188,
+       "name": "Udaan Express",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/clickpost_assets/assets/udaanexpress.png"
+   },
+   {
+       "id": 205,
+       "name": "Universal Logistics",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/Logos/Universal+Logistics.png"
+   },
+   {
+       "id": 107,
+       "name": "UPS",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/ups_logo.svg"
+   },
+   {
+       "id": 160,
+       "name": "UPS Reverse",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/ups_logo.svg"
+   },
+   {
+       "id": 21,
+       "name": "Vamaship",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/vamaship.png"
+   },
+   {
+       "id": 43,
+       "name": "Vamaship International",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/vamaship.png"
+   },
+   {
+       "id": 115,
+       "name": "Vamaship Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/vamaship.png"
+   },
+   {
+       "id": 33,
+       "name": "Wadi LastMile",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/wadi.png"
+   },
+   {
+       "id": 163,
+       "name": "WareIQ",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/wareiq_logo.svg"
+   },
+   {
+       "id": 130,
+       "name": "Wefast/Borzo",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/wefast_logo.svg"
+   },
+   {
+       "id": 274,
+       "name": "Wherehouse",
+       "logo": null
+   },
+   {
+       "id": 124,
+       "name": "Wimo",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/wimo.png"
+   },
+   {
+       "id": 14,
+       "name": "WowExpress",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/wow_express.png"
+   },
+   {
+       "id": 6,
+       "name": "XpressBees",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/xpressbees.png"
+   },
+   {
+       "id": 61,
+       "name": "XpressBees Cargo MPS [B2B]",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/xpressbees.png"
+   },
+   {
+       "id": 54,
+       "name": "XpressBees P2P",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/xpressbees.png"
+   },
+   {
+       "id": 41,
+       "name": "XpressBees Reverse",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/xpressbees.png"
+   },
+   {
+       "id": 151,
+       "name": "XpressBees Scrapper",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/xpressbees.png"
+   },
+   {
+       "id": 20,
+       "name": "Yakit",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/yakit.png"
+   },
+   {
+       "id": 132,
+       "name": "Zajil Express",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/zajil_logo.png"
+   },
+   {
+       "id": 133,
+       "name": "Zajil Express MPS",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/zajil_logo.png"
+   },
+   {
+       "id": 134,
+       "name": "Zajil Express Reverse",
+       "logo": "https://pyck-res-bucket.s3-ap-southeast-1.amazonaws.com/shipper_accounts_icons/zajil_logo.png"
+   },
+   {
+       "id": 243,
+       "name": "Zapp HLD",
+       "logo": "https://www.zypp.app/images/icons/newlogo.png"
+   },
+   {
+       "id": 18,
+       "name": "Zodiac",
+       "logo": "https://s3-ap-southeast-1.amazonaws.com/pyck-res-bucket/shipper_accounts_icons/zodiac.png"
+   }
+]
+
